@@ -1,0 +1,277 @@
+"","WindSpeed_minmax","WindDirection_discretize","SeaLevelPressure_minmax","Temperature_minmax","Salinity_minmax","Turbidity_minmax","moonphase","moonphasePlusTwo","moonphaseMinusTwo","attack","probability.0","probability.1","prediction.0","prediction.1"
+"1",-0.4166667,"Northeast",-0.89285714,-0.7684211,0.32203390,0.07058823,"New","New","Waning crescent","0",0.99,0.01,Attack,No Attack
+"3",-0.2916667,"North",-0.67857143,-0.7473684,0.27966102,0.02352941,"New","Waxing crescent","New","0",0.77,0.23,Attack,No Attack
+"5",-0.2916667,"North",-0.67857143,-0.6315789,0.51694915,0.12941177,"Waxing crescent","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"10",-0.3333333,"North",-0.51785714,-0.6526316,0.58474576,0.03529412,"First quarter","Waxing gibbous","First quarter","0",0.99,0.01,Attack,No Attack
+"14",-0.2083333,"Northeast",-0.55357143,-0.6421053,0.56779661,0.05882353,"Waxing gibbous","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"17",-0.4166667,"North",-0.62500000,-0.6210526,0.11864407,0.08235294,"Full","Waning gibbous","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"28",-0.6250000,"Northeast",-0.32142857,-0.7368421,0.61016949,0.14117647,"Waning crescent","Waning crescent","Last quarter","0",1.00,0.00,Attack,No Attack
+"29",-0.5416667,"Northeast",-0.35714286,-0.7157895,0.36440678,0.12941177,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"32",-0.8333333,"Northeast",-0.69642857,-0.7368421,0.52542373,0.04705882,"New","Waxing crescent","Waning crescent","0",0.99,0.01,Attack,No Attack
+"34",-0.3333333,"North",-0.50000000,-0.6736842,0.52542373,0.03529412,"Waxing crescent","Waxing crescent","New","0",0.95,0.05,Attack,No Attack
+"38",-0.3750000,"North",-0.58928571,-0.6736842,0.38135593,0.04705882,"First quarter","First quarter","Waxing crescent","0",0.99,0.01,Attack,No Attack
+"45",-0.3333333,"Northeast",-0.66071429,-0.6631579,0.33050848,0.05882353,"Full","Full","Waxing gibbous","0",0.96,0.04,Attack,No Attack
+"48",-0.2500000,"North",-0.48214286,-0.6631579,0.26271186,0.07058823,"Full","Waning gibbous","Full","0",0.99,0.01,Attack,No Attack
+"50",-0.1250000,"North",-0.39285714,-0.6421053,0.34745763,0.11764706,"Waning gibbous","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"51",-0.3333333,"Northeast",-0.35714286,-0.6736842,0.35593220,0.09411765,"Waning gibbous","Last quarter","Waning gibbous","0",0.93,0.07,Attack,No Attack
+"53",-0.3333333,"North",-0.48214286,-0.6631579,0.76271186,0.08235294,"Last quarter","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"57",-0.2500000,"North",-0.41071429,-0.6947368,0.56779661,0.07058823,"Waning crescent","Waning crescent","Last quarter","0",0.99,0.01,Attack,No Attack
+"63",-0.2916667,"Northeast",-0.23214286,-0.7263158,0.51694915,0.08235294,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"66",-0.3541667,"Northeast",-0.51785714,-0.7789474,0.51694915,0.09411765,"Waxing crescent","First quarter","Waxing crescent","0",0.99,0.01,Attack,No Attack
+"68",-0.3333333,"Northeast",-0.53571429,-0.7684211,0.69491525,0.05882353,"First quarter","First quarter","Waxing crescent","0",0.98,0.02,Attack,No Attack
+"77",-0.3750000,"North",-0.48214286,-0.7157895,0.42372881,0.04705882,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"78",-0.2916667,"Northeast",-0.44642857,-0.7368421,0.44067797,0.10588235,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"88",-0.2916667,"North",-0.50000000,-0.7368421,0.41525424,0.02352941,"Waning crescent","New","Waning crescent","0",0.97,0.03,Attack,No Attack
+"93",-0.3750000,"Northeast",-0.58928571,-0.7578947,0.27966102,0.05882353,"Waxing crescent","Waxing crescent","New","0",0.95,0.05,Attack,No Attack
+"98",-0.3333333,"North",-0.66071429,-0.6736842,0.29661017,0.02352941,"First quarter","First quarter","Waxing crescent","0",0.95,0.05,Attack,No Attack
+"100",-0.3333333,"North",-0.60714286,-0.6842105,0.26271186,0.01176471,"First quarter","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"111",-0.5416667,"North",-0.48214286,-0.7052632,0.35593220,0.01176471,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"116",-0.2083333,"Northeast",-0.44642857,-0.7368421,0.44067797,0.02352941,"Waning crescent","Waning crescent","Last quarter","0",0.97,0.03,Attack,No Attack
+"119",-0.3333333,"North",-0.46428571,-0.7368421,0.34745763,0.01176471,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"121",-0.2916667,"Northeast",-0.37500000,-0.7157895,0.27118644,0.03529412,"New","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"127",-0.2916667,"Northeast",-0.44642857,-0.6736842,0.34745763,0.02352941,"First quarter","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"134",-0.2916667,"North",-0.67857143,-0.7052632,0.26271186,0.03529412,"Full","Full","Waxing gibbous","1",0.01,0.99,No Attack,Attack
+"135",-0.2916667,"North",-0.71428571,-0.7473684,0.26271186,0.03529412,"Full","Full","Waxing gibbous","0",0.50,0.50,No Attack,No Attack
+"145",-0.2083333,"North",-0.58928571,-0.6736842,0.44067797,0.01176471,"Waning crescent","Waning crescent","Last quarter","0",0.86,0.14,Attack,No Attack
+"149",-0.3750000,"North",-0.57142857,-0.7052632,0.28813559,0.04705882,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"162",-0.2916667,"Northeast",-0.55357143,-0.7263158,0.10169491,0.04705882,"Waxing gibbous","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"164",-0.3333333,"North",-0.44642857,-0.7473684,0.11016949,0.07058823,"Full","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"171",-0.2916667,"Northeast",-0.69642857,-0.6421053,0.30508475,0.12941177,"Last quarter","Last quarter","Waning gibbous","0",0.92,0.08,Attack,No Attack
+"174",-0.2083333,"Northeast",-0.80357143,-0.6421053,0.38135593,0.08235294,"Last quarter","Waning crescent","Last quarter","0",0.95,0.05,Attack,No Attack
+"185",-0.2083333,"North",-0.55357143,-0.6105263,0.22033898,0.08235294,"Waxing gibbous","Waxing gibbous","First quarter","0",0.89,0.11,Attack,No Attack
+"190",-0.2500000,"Northeast",-0.60714286,-0.6842105,0.29661017,0.03529412,"Full","Waning gibbous","Full","1",0.00,1.00,No Attack,Attack
+"191",-0.4166667,"Northeast",-0.62500000,-0.6736842,0.30508475,0.05882353,"Full","Waning gibbous","Full","0",0.92,0.08,Attack,No Attack
+"194",-0.2500000,"Northeast",-0.50000000,-0.6736842,0.35593220,0.05882353,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"197",-0.3750000,"Northeast",-0.82142857,-0.6105263,0.39830509,0.12941177,"Last quarter","Waning crescent","Waning gibbous","0",0.94,0.06,Attack,No Attack
+"206",-0.3750000,"North",-0.44642857,-0.6947368,0.53389831,0.10588235,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"209",-0.7500000,"Northeast",-0.21428571,-0.7157895,0.57627119,0.10588235,"Waxing crescent","First quarter","Waxing crescent","0",0.99,0.01,Attack,No Attack
+"211",-0.2500000,"Northeast",-0.73214286,-0.6631579,0.61016949,0.17647059,"First quarter","First quarter","Waxing crescent","0",0.93,0.07,Attack,No Attack
+"214",-0.2083333,"North",-0.69642857,-0.6736842,0.65254237,0.04705882,"Waxing gibbous","Waxing gibbous","First quarter","0",0.97,0.03,Attack,No Attack
+"215",-0.2916667,"Northeast",-0.46428571,-0.7052632,0.71186441,0.04705882,"Waxing gibbous","Waxing gibbous","First quarter","0",0.99,0.01,Attack,No Attack
+"218",-0.2083333,"Northeast",-0.51785714,-0.6526316,0.52542373,0.02352941,"Full","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"219",-0.1250000,"North",-0.64285714,-0.6736842,0.47457627,0.04705882,"Full","Waning gibbous","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"221",-0.5416667,"North",-0.32142857,-0.7368421,0.32203390,0.04705882,"Waning gibbous","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"223",-0.3333333,"North",-0.42857143,-0.6842105,0.34745763,0.07058823,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"229",-0.2916667,"Northeast",-0.41071429,-0.6631579,0.69491525,0.07058823,"Waning crescent","Waning crescent","Last quarter","0",1.00,0.00,Attack,No Attack
+"233",-0.2916667,"North",-0.53571429,-0.6631579,0.49152542,0.07058823,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"234",-0.2916667,"Northeast",-0.48214286,-0.6736842,0.48305085,0.04705882,"New","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"256",-0.4166667,"Northeast",-0.41071429,-0.6947368,0.47457627,0.04705882,"Last quarter","Waning crescent","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"259",-0.2083333,"North",-0.55357143,-0.7157895,0.68644068,0.07058823,"Waning crescent","Waning crescent","Last quarter","0",0.92,0.08,Attack,No Attack
+"260",-0.2916667,"Northeast",-0.55357143,-0.6947368,0.63559322,0.04705882,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"261",-0.1250000,"North",-0.58928571,-0.6631579,0.60169492,0.05882353,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"270",-0.2916667,"Northeast",-0.69642857,-0.6842105,0.76271186,0.04705882,"First quarter","First quarter","Waxing crescent","0",0.96,0.04,Attack,No Attack
+"273",-0.2916667,"North",-0.66071429,-0.7052632,0.60169492,0.04705882,"Waxing gibbous","Waxing gibbous","First quarter","0",0.86,0.14,Attack,No Attack
+"275",-0.2916667,"Northeast",-0.58928571,-0.7052632,0.48305085,0.03529412,"Waxing gibbous","Full","Waxing gibbous","0",0.97,0.03,Attack,No Attack
+"276",-0.2916667,"North",-0.69642857,-0.6842105,0.47457627,0.03529412,"Waxing gibbous","Full","Waxing gibbous","1",0.01,0.99,No Attack,Attack
+"278",-0.2500000,"Northeast",-0.64285714,-0.6842105,0.37288136,0.05882353,"Full","Waning gibbous","Waxing gibbous","0",0.96,0.04,Attack,No Attack
+"281",-0.3333333,"Northeast",-0.62500000,-0.7578947,0.38135593,0.04705882,"Waning gibbous","Waning gibbous","Full","0",0.97,0.03,Attack,No Attack
+"284",-0.2500000,"Northeast",-0.50000000,-0.7789474,0.62711864,0.03529412,"Last quarter","Last quarter","Waning gibbous","0",0.95,0.05,Attack,No Attack
+"292",-0.2083333,"North",-0.42857143,-0.8000000,0.52542373,0.05882353,"New","New","Waning crescent","0",0.99,0.01,Attack,No Attack
+"296",-0.2083333,"Northeast",-0.44642857,-0.7894737,0.46610169,0.07058823,"Waxing crescent","Waxing crescent","New","0",0.98,0.02,Attack,No Attack
+"299",-0.2916667,"Northeast",-0.55357143,-0.7157895,0.66101695,0.04705882,"First quarter","First quarter","Waxing crescent","0",0.98,0.02,Attack,No Attack
+"304",-0.3333333,"Northeast",-0.46428571,-0.8105263,0.53389831,0.04705882,"Waxing gibbous","Full","First quarter","0",1.00,0.00,Attack,No Attack
+"306",-0.2916667,"Northeast",-0.35714286,-0.8000000,0.43220339,0.08235294,"Full","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"307",-0.2500000,"Northeast",-0.46428571,-0.7789474,0.41525424,0.08235294,"Full","Full","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"309",-0.2916667,"Northeast",-0.55357143,-0.7368421,0.44067797,0.09411765,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"313",-0.2500000,"Northeast",-0.62500000,-0.7368421,0.69491525,0.05882353,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"316",-0.3750000,"Northeast",-0.41071429,-0.8000000,0.73728814,0.04705882,"Last quarter","Waning crescent","Last quarter","0",0.98,0.02,Attack,No Attack
+"317",-0.2916667,"Northeast",-0.46428571,-0.7894737,0.75423729,0.04705882,"Waning crescent","Waning crescent","Last quarter","0",1.00,0.00,Attack,No Attack
+"319",-0.4583333,"Northeast",-0.67857143,-0.7684211,0.64406780,0.04705882,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"322",-0.2083333,"Northeast",-0.64285714,-0.8210526,0.44067797,0.05882353,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"325",-0.2916667,"North",-0.67857143,-0.7578947,0.37288136,0.09411765,"Waxing crescent","Waxing crescent","New","0",0.95,0.05,Attack,No Attack
+"330",-0.2083333,"Northeast",-0.57142857,-0.8105263,0.50000000,0.04705882,"First quarter","Waxing gibbous","First quarter","0",0.96,0.04,Attack,No Attack
+"332",-0.4166667,"Northeast",-0.50000000,-0.7157895,0.36440678,0.04705882,"Waxing gibbous","Waxing gibbous","First quarter","0",0.91,0.09,Attack,No Attack
+"335",-0.5416667,"Northeast",-0.51785714,-0.7578947,0.30508475,0.04705882,"Waxing gibbous","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"336",-0.2916667,"Northeast",-0.58928571,-0.8000000,0.29661017,0.05882353,"Full","Full","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"339",-0.2083333,"Northeast",-0.37500000,-0.8105263,0.34745763,0.08235294,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"341",-0.3750000,"Northeast",-0.83928571,-0.7157895,0.33050848,0.07058823,"Waning gibbous","Last quarter","Full","0",0.93,0.07,Attack,No Attack
+"342",-0.2916667,"North",-0.67857143,-0.7263158,0.32203390,0.11764706,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"346",-0.3333333,"North",-0.58928571,-0.7368421,0.29661017,0.09411765,"Last quarter","Waning crescent","Last quarter","0",0.63,0.37,Attack,No Attack
+"347",-0.2083333,"North",-0.58928571,-0.7263158,0.28813559,0.04705882,"Waning crescent","Waning crescent","Last quarter","1",0.00,1.00,No Attack,Attack
+"353",-0.2083333,"Northeast",-0.32142857,-0.8526316,0.29661017,0.03529412,"New","Waxing crescent","New","0",0.97,0.03,Attack,No Attack
+"356",-0.4166667,"North",-0.55357143,-0.7368421,0.25423729,0.05882353,"Waxing crescent","First quarter","Waxing crescent","0",0.98,0.02,Attack,No Attack
+"361", 0.0000000,"None",-0.71428571,-0.7789474,0.19491525,0.01176471,"First quarter","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"362",-0.6666667,"Northeast",-0.73214286,-0.8000000,0.19491525,0.01176471,"Waxing gibbous","Waxing gibbous","First quarter","0",0.96,0.04,Attack,No Attack
+"368",-0.3333333,"Northeast",-0.69642857,-0.6736842,0.22881356,0.02352941,"Full","Waning gibbous","Full","0",0.95,0.05,Attack,No Attack
+"372",-0.3750000,"North",-0.26785714,-0.6947368,0.44067797,0.04705882,"Last quarter","Waning crescent","Last quarter","0",0.99,0.01,Attack,No Attack
+"373",-0.5833333,"North",-0.44642857,-0.6631579,0.42372881,0.04705882,"Waning crescent","Waning crescent","Last quarter","0",0.97,0.03,Attack,No Attack
+"382",-0.4583333,"Northeast",-0.57142857,-0.7789474,0.52542373,0.05882353,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"387",-0.2916667,"North",-0.55357143,-0.7052632,0.66949152,0.09411765,"Waxing gibbous","Waxing gibbous","First quarter","0",0.85,0.15,Attack,No Attack
+"388",-0.4166667,"Northeast",-0.57142857,-0.7578947,0.69491525,0.05882353,"Waxing gibbous","Waxing gibbous","First quarter","0",1.00,0.00,Attack,No Attack
+"390",-0.3750000,"Northeast",-0.35714286,-0.7263158,0.66101695,0.04705882,"Waxing gibbous","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"394",-0.2916667,"North",-0.75000000,-0.6947368,0.50000000,0.04705882,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"395",-0.1250000,"North",-0.48214286,-0.7894737,0.46610169,0.04705882,"Waning gibbous","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"396",-0.4166667,"North",-0.28571429,-0.8000000,0.41525424,0.05882353,"Waning gibbous","Last quarter","Full","0",0.97,0.03,Attack,No Attack
+"398",-0.5833333,"North",-0.37500000,-0.7157895,0.64406780,0.10588235,"Last quarter","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"402",-0.1250000,"North",-0.44642857,-0.7052632,0.51694915,0.08235294,"Waning crescent","Waning crescent","Last quarter","0",1.00,0.00,Attack,No Attack
+"404",-0.4583333,"Northeast",-0.66071429,-0.6947368,0.55084746,0.07058823,"Waning crescent","New","Waning crescent","0",0.99,0.01,Attack,No Attack
+"409",-0.3750000,"North",-0.57142857,-0.7263158,0.37288136,0.07058823,"New","Waxing crescent","New","0",0.95,0.05,Attack,No Attack
+"412",-0.2083333,"Northeast",-0.66071429,-0.6947368,0.33898305,0.11764706,"Waxing crescent","First quarter","Waxing crescent","0",0.94,0.06,Attack,No Attack
+"414",-0.2500000,"Northeast",-0.62500000,-0.6736842,0.89830508,0.25882353,"First quarter","First quarter","Waxing crescent","0",0.99,0.01,Attack,No Attack
+"415",-0.3333333,"Northeast",-0.67857143,-0.6947368,0.81355932,0.14117647,"First quarter","Waxing gibbous","First quarter","0",0.99,0.01,Attack,No Attack
+"418",-0.3333333,"North",-0.39285714,-0.7578947,0.48305085,0.11764706,"Waxing gibbous","Waxing gibbous","First quarter","0",0.92,0.08,Attack,No Attack
+"421",-0.2500000,"North",-0.50000000,-0.7368421,0.40677966,0.08235294,"Full","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"422",-0.3333333,"Northeast",-0.44642857,-0.7157895,0.29661017,0.05882353,"Full","Waning gibbous","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"430",-0.5416667,"North",-0.42857143,-0.7473684,0.73728814,0.08235294,"Last quarter","Waning crescent","Last quarter","0",0.99,0.01,Attack,No Attack
+"432",-0.2916667,"North",-0.48214286,-0.7157895,0.72881356,0.14117647,"Waning crescent","Waning crescent","Last quarter","0",0.99,0.01,Attack,No Attack
+"433",-0.2500000,"North",-0.35714286,-0.6947368,0.66949152,0.12941177,"Waning crescent","New","Last quarter","0",1.00,0.00,Attack,No Attack
+"434",-0.3333333,"Northeast",-0.39285714,-0.7263158,0.67796610,0.14117647,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"436",-0.5416667,"Northeast",-0.39285714,-0.7473684,0.55084746,0.07058823,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"440",-0.2500000,"North",-0.58928571,-0.7578947,0.61016949,0.12941177,"Waxing crescent","Waxing crescent","New","0",0.97,0.03,Attack,No Attack
+"446",-0.3333333,"North",-0.71428571,-0.7789474,0.86440678,0.05882353,"Waxing gibbous","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"448",-0.2500000,"North",-0.48214286,-0.7368421,0.69491525,0.05882353,"Waxing gibbous","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"450",-0.3333333,"North",-0.42857143,-0.7263158,0.52542373,0.04705882,"Full","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"452",-0.3333333,"Northeast",-0.69642857,-0.7157895,0.50000000,0.07058823,"Full","Waning gibbous","Full","0",0.98,0.02,Attack,No Attack
+"453",-0.2500000,"North",-0.58928571,-0.7263158,0.55084746,0.05882353,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"459",-0.2083333,"Northeast",-0.87500000,-0.7052632,0.55932203,0.09411765,"Last quarter","Waning crescent","Waning gibbous","0",0.99,0.01,Attack,No Attack
+"463",-0.3750000,"North",-0.66071429,-0.7157895,0.54237288,0.10588235,"Waning crescent","New","Waning crescent","0",0.98,0.02,Attack,No Attack
+"474",-0.2916667,"Northeast",-0.51785714,-0.7052632,0.69491525,0.03529412,"First quarter","Waxing gibbous","First quarter","0",1.00,0.00,Attack,No Attack
+"481",-0.4166667,"Northeast",-0.53571429,-0.7263158,0.43220339,0.05882353,"Full","Waning gibbous","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"483",-0.2916667,"Northeast",-0.37500000,-0.7894737,0.44067797,0.07058823,"Waning gibbous","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"485",-0.2083333,"North",-0.48214286,-0.7473684,0.56779661,0.05882353,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"491",-0.3333333,"North",-0.57142857,-0.8736842,0.57627119,0.04705882,"Waning crescent","Waning crescent","Last quarter","1",0.00,1.00,No Attack,Attack
+"493",-0.2916667,"Northeast",-0.48214286,-0.8105263,0.53389831,0.01176471,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"496",-0.2083333,"Northeast",-0.46428571,-0.8421053,0.44067797,0.03529412,"New","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"497",-0.2083333,"North",-0.41071429,-0.8210526,0.40677966,0.07058823,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"498",-0.4166667,"Northeast",-0.42857143,-0.7894737,0.38983051,0.24705882,"Waxing crescent","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"499",-0.3333333,"North",-0.39285714,-0.7368421,0.40677966,0.08235294,"Waxing crescent","Waxing crescent","New","0",0.98,0.02,Attack,No Attack
+"503",-0.2500000,"Northeast",-0.50000000,-0.7578947,0.39830509,0.03529412,"First quarter","Waxing gibbous","Waxing crescent","0",0.93,0.07,Attack,No Attack
+"504",-0.2083333,"Northeast",-0.25000000,-0.7789474,0.38135593,0.02352941,"First quarter","Waxing gibbous","First quarter","0",0.99,0.01,Attack,No Attack
+"511",-0.3333333,"Northeast",-0.48214286,-0.6947368,0.38983051,0.05882353,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"515",-0.1250000,"North",-0.48214286,-0.7894737,0.55084746,0.02352941,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"528",-0.2083333,"Northeast",-0.53571429,-0.7684211,0.38135593,0.10588235,"Waxing crescent","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"536",-0.2916667,"North",-0.51785714,-0.8421053,0.36440678,0.02352941,"Waxing gibbous","Waxing gibbous","First quarter","0",0.93,0.07,Attack,No Attack
+"538",-0.2500000,"Northeast",-0.62500000,-0.7684211,0.23728814,0.03529412,"Waxing gibbous","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"539",-0.3333333,"North",-0.62500000,-0.7684211,0.21186441,0.04705882,"Full","Full","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"540",-0.3333333,"Northeast",-0.66071429,-0.7789474,0.18644068,0.04705882,"Full","Waning gibbous","Waxing gibbous","0",0.96,0.04,Attack,No Attack
+"542",-0.2500000,"Northeast",-0.58928571,-0.6947368,0.18644068,0.04705882,"Waning gibbous","Waning gibbous","Full","0",0.97,0.03,Attack,No Attack
+"545",-0.2916667,"Northeast",-0.67857143,-0.6947368,0.28813559,0.03529412,"Waning gibbous","Last quarter","Waning gibbous","0",0.91,0.09,Attack,No Attack
+"546",-0.3333333,"North",-0.82142857,-0.6947368,0.29661017,0.03529412,"Last quarter","Last quarter","Waning gibbous","0",0.82,0.18,Attack,No Attack
+"549",-0.5416667,"Northeast",-0.39285714,-0.6736842,0.20338983,0.02352941,"Last quarter","Waning crescent","Last quarter","0",0.98,0.02,Attack,No Attack
+"556",-0.2500000,"North",-0.62500000,-0.6842105,0.67796610,0.03529412,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"558",-0.9166667,"Northeast",-0.37500000,-0.6947368,0.77966102,0.02352941,"First quarter","First quarter","Waxing crescent","0",0.99,0.01,Attack,No Attack
+"559",-0.5833333,"Northeast",-0.58928571,-0.7263158,1.00000000,0.03529412,"First quarter","Waxing gibbous","First quarter","0",1.00,0.00,Attack,No Attack
+"561",-0.3333333,"North",-0.71428571,-0.6842105,0.61016949,0.03529412,"Waxing gibbous","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"571",-0.4583333,"Northeast",-0.55357143,-0.7368421,0.53389831,0.02352941,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"574",-0.3750000,"North",-0.66071429,-0.6631579,0.61864407,0.02352941,"Last quarter","Waning crescent","Last quarter","0",0.98,0.02,Attack,No Attack
+"577",-0.5416667,"Northeast",-0.57142857,-0.7263158,0.47457627,0.02352941,"Waning crescent","New","Last quarter","0",0.97,0.03,Attack,No Attack
+"578",-0.3333333,"Northeast",-0.62500000,-0.7052632,0.48305085,0.01176471,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"580",-0.2916667,"Northeast",-0.50000000,-0.6947368,0.52542373,0.03529412,"New","New","Waning crescent","0",0.93,0.07,Attack,No Attack
+"582",-0.3333333,"Northeast",-0.50000000,-0.7473684,0.59322034,0.04705882,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"583",-0.3333333,"Northeast",-0.50000000,-0.7473684,0.58474576,0.03529412,"Waxing crescent","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"585",-0.4166667,"Northeast",-0.50000000,-0.7052632,0.54237288,0.04705882,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"588",-0.3750000,"Northeast",-0.41071429,-0.7263158,0.89830508,0.04705882,"First quarter","Waxing gibbous","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"589",-0.3333333,"North",-0.41071429,-0.6947368,0.64406780,0.05882353,"First quarter","Waxing gibbous","First quarter","0",0.99,0.01,Attack,No Attack
+"598",-0.4583333,"Northeast",-0.46428571,-0.7263158,0.50000000,0.04705882,"Waning gibbous","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"606",-0.3333333,"North",-0.58928571,-0.7263158,0.54237288,0.01176471,"Waning crescent","Waning crescent","Last quarter","0",0.79,0.21,Attack,No Attack
+"610",-0.3333333,"North",-0.42857143,-0.7684211,0.53389831,0.04705882,"New","Waxing crescent","Waning crescent","0",1.00,0.00,Attack,No Attack
+"611",-0.4583333,"North",-0.41071429,-0.7684211,0.55932203,0.05882353,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"622",-0.4166667,"Northeast",-0.58928571,-0.7684211,0.46610169,0.02352941,"Waxing gibbous","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"624",-0.4166667,"Northeast",-0.67857143,-0.7684211,0.38135593,0.15294118,"Full","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"627",-0.4583333,"North",-0.60714286,-0.8000000,0.41525424,0.03529412,"Waning gibbous","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"631",-0.2916667,"North",-0.69642857,-0.7578947,0.43220339,0.05882353,"Last quarter","Last quarter","Waning gibbous","0",0.99,0.01,Attack,No Attack
+"639",-0.1250000,"North",-0.62500000,-0.7684211,0.59322034,0.04705882,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"642",-0.4583333,"Northeast",-0.67857143,-0.8105263,0.58474576,0.03529412,"Waxing crescent","Waxing crescent","New","0",0.98,0.02,Attack,No Attack
+"643",-0.3333333,"Northeast",-0.58928571,-0.8105263,0.61864407,0.05882353,"Waxing crescent","Waxing crescent","New","0",0.99,0.01,Attack,No Attack
+"648",-0.2916667,"Northeast",-0.66071429,-0.7789474,0.66949152,0.03529412,"First quarter","Waxing gibbous","First quarter","0",0.84,0.16,Attack,No Attack
+"649",-0.3750000,"Northeast",-0.73214286,-0.7473684,0.61864407,0.03529412,"Waxing gibbous","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"651",-0.3333333,"Northeast",-0.60714286,-0.7578947,0.50847458,0.04705882,"Waxing gibbous","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"652",-0.3333333,"North",-0.58928571,-0.7473684,0.44067797,0.04705882,"Waxing gibbous","Full","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"659",-0.2083333,"North",-0.67857143,-0.7263158,0.33898305,0.05882353,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"660",-0.2083333,"North",-0.69642857,-0.7789474,0.37288136,0.07058823,"Last quarter","Last quarter","Waning gibbous","0",0.99,0.01,Attack,No Attack
+"662",-0.2916667,"Northeast",-0.39285714,-0.7894737,0.47457627,0.04705882,"Last quarter","Waning crescent","Last quarter","0",0.99,0.01,Attack,No Attack
+"664",-0.2916667,"Northeast",-0.55357143,-0.7789474,0.52542373,0.03529412,"Waning crescent","Waning crescent","Last quarter","0",0.95,0.05,Attack,No Attack
+"666",-0.2916667,"Northeast",-0.64285714,-0.7368421,0.51694915,0.03529412,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"670",-0.3333333,"Northeast",-0.64285714,-0.7684211,0.32203390,0.05882353,"New","Waxing crescent","New","0",0.97,0.03,Attack,No Attack
+"679",-0.1250000,"Northeast",-0.30357143,-0.7263158,0.26271186,0.07058823,"Waxing gibbous","Waxing gibbous","First quarter","0",1.00,0.00,Attack,No Attack
+"694",-0.3333333,"Northeast",-0.48214286,-0.7684211,0.44067797,0.02352941,"Waning crescent","Waning crescent","Last quarter","0",0.82,0.18,Attack,No Attack
+"696",-0.2916667,"Northeast",-0.64285714,-0.7578947,0.40677966,0.03529412,"Waning crescent","New","Waning crescent","0",0.98,0.02,Attack,No Attack
+"704",-0.4583333,"Northeast",-0.51785714,-0.7684211,0.38983051,0.03529412,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"717",-0.3750000,"North",-0.46428571,-0.7684211,0.30508475,0.04705882,"Waning gibbous","Last quarter","Full","0",0.99,0.01,Attack,No Attack
+"727",-0.3750000,"Northeast",-0.53571429,-0.8000000,0.41525424,0.03529412,"New","New","Waning crescent","0",0.98,0.02,Attack,No Attack
+"732",-0.3750000,"Northeast",-0.51785714,-0.7684211,0.35593220,0.05882353,"Waxing crescent","First quarter","New","0",0.93,0.07,Attack,No Attack
+"737",-0.3750000,"Northeast",-0.50000000,-0.6842105,0.38983051,0.05882353,"Waxing gibbous","Full","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"744",-0.2916667,"Northeast",-0.57142857,-0.6315789,0.46610169,0.02352941,"Waning gibbous","Last quarter","Waning gibbous","0",0.98,0.02,Attack,No Attack
+"747",-0.3333333,"Northeast",-0.51785714,-0.6842105,0.49152542,0.04705882,"Last quarter","Waning crescent","Last quarter","0",0.98,0.02,Attack,No Attack
+"752",-0.3750000,"North",-0.67857143,-0.6842105,0.54237288,0.28235294,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"753",-0.1250000,"North",-0.73214286,-0.6736842,0.55084746,0.02352941,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"754",-0.3333333,"Northeast",-0.73214286,-0.7263158,0.55932203,0.04705882,"New","Waxing crescent","Waning crescent","0",1.00,0.00,Attack,No Attack
+"760",-0.3333333,"North",-0.67857143,-0.7052632,0.62711864,0.03529412,"First quarter","First quarter","Waxing crescent","0",0.94,0.06,Attack,No Attack
+"761",-0.2916667,"North",-0.67857143,-0.6631579,0.63559322,0.10588235,"First quarter","First quarter","Waxing crescent","0",0.97,0.03,Attack,No Attack
+"764",-0.2916667,"North",-0.66071429,-0.6631579,0.55084746,0.03529412,"Waxing gibbous","Waxing gibbous","First quarter","0",0.95,0.05,Attack,No Attack
+"767",-0.2916667,"Northeast",-0.64285714,-0.6315789,0.47457627,0.03529412,"Full","Full","Waxing gibbous","0",0.97,0.03,Attack,No Attack
+"768",-0.4166667,"Northeast",-0.71428571,-0.6736842,0.43220339,0.02352941,"Full","Full","Waxing gibbous","0",0.95,0.05,Attack,No Attack
+"779",-0.2500000,"North",-0.41071429,-0.6842105,0.38135593,0.04705882,"Waning crescent","Waning crescent","Last quarter","0",0.93,0.07,Attack,No Attack
+"780",-0.2083333,"North",-0.37500000,-0.7157895,0.33898305,0.02352941,"Waning crescent","New","Waning crescent","1",0.96,0.04,Attack,No Attack
+"781",-0.2916667,"Northeast",-0.35714286,-0.6947368,0.27966102,0.02352941,"Waning crescent","New","Waning crescent","0",0.94,0.06,Attack,No Attack
+"782",-0.2916667,"North",-0.42857143,-0.7052632,0.26271186,0.02352941,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"787",-0.2500000,"North",-0.42857143,-0.7684211,0.28813559,0.02352941,"Waxing crescent","First quarter","New","0",0.99,0.01,Attack,No Attack
+"789",-0.3333333,"North",-0.55357143,-0.7684211,0.77118644,0.03529412,"First quarter","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"790",-0.2916667,"North",-0.55357143,-0.7684211,0.87288136,0.03529412,"First quarter","First quarter","Waxing crescent","0",0.93,0.07,Attack,No Attack
+"799",-0.3333333,"Northeast",-0.62500000,-0.7789474,0.48305085,0.07058823,"Full","Waning gibbous","Full","0",0.99,0.01,Attack,No Attack
+"802",-0.2916667,"Northeast",-0.67857143,-0.6947368,0.44067797,0.03529412,"Waning gibbous","Last quarter","Full","0",0.95,0.05,Attack,No Attack
+"808",-0.2916667,"Northeast",-0.64285714,-0.7894737,0.39830509,0.10588235,"Waning crescent","Waning crescent","Last quarter","0",0.96,0.04,Attack,No Attack
+"812",-0.2916667,"Northeast",-0.55357143,-0.7684211,0.36440678,0.24705882,"New","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"815",-0.2500000,"Northeast",-0.58928571,-0.7894737,0.37288136,0.27058824,"Waxing crescent","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"817",-0.5416667,"North",-0.67857143,-0.8421053,0.55932203,0.03529412,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"819",-0.2500000,"North",-0.50000000,-0.7473684,0.61016949,0.03529412,"First quarter","First quarter","Waxing crescent","0",0.94,0.06,Attack,No Attack
+"821",-0.2916667,"North",-0.78571429,-0.7894737,0.57627119,0.03529412,"First quarter","Waxing gibbous","First quarter","0",0.90,0.10,Attack,No Attack
+"822",-0.3750000,"North",-0.67857143,-0.8105263,0.51694915,0.02352941,"First quarter","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"826",-0.2916667,"Northeast",-0.62500000,-0.7473684,0.44067797,0.03529412,"Full","Full","Waxing gibbous","0",0.96,0.04,Attack,No Attack
+"836",-0.3333333,"Northeast",-0.57142857,-0.7578947,0.21186441,0.03529412,"Last quarter","Waning crescent","Last quarter","0",0.80,0.20,Attack,No Attack
+"838",-0.3333333,"Northeast",-0.60714286,-0.7473684,0.22033898,0.03529412,"Waning crescent","Waning crescent","Last quarter","1",0.00,1.00,No Attack,Attack
+"839",-0.3333333,"North",-0.55357143,-0.7578947,0.21186441,0.05882353,"Waning crescent","New","Waning crescent","0",0.99,0.01,Attack,No Attack
+"840",-0.3333333,"Northeast",-0.64285714,-0.8105263,0.20338983,0.03529412,"Waning crescent","New","Waning crescent","0",0.99,0.01,Attack,No Attack
+"843",-0.2500000,"North",-0.48214286,-0.8315789,0.08474576,0.04705882,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"847",-0.2500000,"Northeast",-0.53571429,-0.7473684,0.52542373,0.04705882,"Waxing crescent","First quarter","Waxing crescent","0",0.97,0.03,Attack,No Attack
+"852",-0.2916667,"Northeast",-0.57142857,-0.8210526,0.46610169,0.03529412,"Waxing gibbous","Waxing gibbous","First quarter","0",0.94,0.06,Attack,No Attack
+"853",-0.2500000,"North",-0.57142857,-0.8105263,0.44067797,0.25882353,"Waxing gibbous","Waxing gibbous","First quarter","0",0.95,0.05,Attack,No Attack
+"860",-0.2500000,"North",-0.50000000,-0.8000000,0.29661017,0.09411765,"Waning gibbous","Waning gibbous","Full","0",0.99,0.01,Attack,No Attack
+"868",-0.4166667,"Northeast",-0.32142857,-0.9052632,0.22881356,0.05882353,"Waning crescent","Waning crescent","Last quarter","0",0.94,0.06,Attack,No Attack
+"878",-0.2916667,"North",-0.28571429,-0.8842105,0.48305085,0.02352941,"First quarter","First quarter","Waxing crescent","0",0.97,0.03,Attack,No Attack
+"880",-0.2916667,"North",-0.28571429,-0.8315789,0.54237288,0.01176471,"First quarter","Waxing gibbous","First quarter","0",0.98,0.02,Attack,No Attack
+"888",-0.2500000,"North",-0.50000000,-0.8315789,0.30508475,0.05882353,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"889",-0.4583333,"North",-0.32142857,-0.8526316,0.29661017,0.10588235,"Waning gibbous","Waning gibbous","Full","0",0.99,0.01,Attack,No Attack
+"892",-0.3333333,"Northeast", 0.00000000,-0.8000000,0.33898305,0.05882353,"Waning gibbous","Last quarter","Waning gibbous","0",0.94,0.06,Attack,No Attack
+"893",-0.1250000,"Northeast",-0.05357143,-0.6421053,0.33050848,0.02352941,"Last quarter","Last quarter","Waning gibbous","0",0.98,0.02,Attack,No Attack
+"895",-0.3750000,"Northeast",-0.83928571,-0.7684211,0.33898305,0.02352941,"Last quarter","Waning crescent","Last quarter","0",0.87,0.13,Attack,No Attack
+"900",-0.2083333,"North",-0.50000000,-0.9263158,0.28813559,0.02352941,"New","New","Waning crescent","0",0.94,0.06,Attack,No Attack
+"909",-0.3750000,"Northeast",-0.39285714,-0.8421053,0.35593220,0.08235294,"First quarter","Waxing gibbous","Waxing crescent","0",0.99,0.01,Attack,No Attack
+"918",-0.4583333,"North",-0.32142857,-0.8315789,0.20338983,0.07058823,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"925",-0.3333333,"North",-0.51785714,-0.6947368,0.27118644,0.04705882,"New","New","Waning crescent","0",0.96,0.04,Attack,No Attack
+"931",-0.4166667,"Northeast",-0.73214286,-0.6631579,0.27966102,0.03529412,"Waxing crescent","First quarter","Waxing crescent","0",0.97,0.03,Attack,No Attack
+"933",-0.2916667,"Northeast",-0.69642857,-0.6631579,0.30508475,0.04705882,"First quarter","First quarter","Waxing crescent","0",0.97,0.03,Attack,No Attack
+"938",-0.3750000,"Northeast",-0.64285714,-0.6631579,0.47457627,0.05882353,"Waxing gibbous","Full","Waxing gibbous","0",0.98,0.02,Attack,No Attack
+"942",-0.4583333,"Northeast",-0.73214286,-0.7052632,0.50847458,0.03529412,"Full","Waning gibbous","Full","0",0.97,0.03,Attack,No Attack
+"946",-0.2916667,"Northeast",-0.73214286,-0.7157895,0.55084746,0.04705882,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"947",-0.2500000,"Northeast",-0.51785714,-0.6842105,0.51694915,0.03529412,"Last quarter","Last quarter","Waning gibbous","0",0.99,0.01,Attack,No Attack
+"949",-0.2916667,"Northeast",-0.71428571,-0.6526316,0.66949152,0.09411765,"Last quarter","Waning crescent","Last quarter","1",0.99,0.01,Attack,No Attack
+"953",-0.3333333,"Northeast",-0.62500000,-0.6526316,0.48305085,0.05882353,"Waning crescent","New","Waning crescent","0",1.00,0.00,Attack,No Attack
+"968",-0.4583333,"Northeast",-0.73214286,-0.7789474,0.46610169,0.05882353,"Waxing gibbous","Full","Waxing gibbous","0",1.00,0.00,Attack,No Attack
+"981",-0.3333333,"Northeast",-0.48214286,-0.7368421,0.57627119,0.05882353,"Waning crescent","Waning crescent","Last quarter","0",0.93,0.07,Attack,No Attack
+"987",-0.4166667,"Northeast",-0.66071429,-0.7052632,0.33898305,0.04705882,"New","Waxing crescent","New","0",0.97,0.03,Attack,No Attack
+"993",-0.3750000,"Northeast",-0.57142857,-0.7473684,0.48305085,0.07058823,"First quarter","Waxing gibbous","First quarter","0",0.99,0.01,Attack,No Attack
+"996",-0.3333333,"Northeast",-0.62500000,-0.7052632,0.36440678,0.08235294,"Waxing gibbous","Waxing gibbous","First quarter","1",0.00,1.00,No Attack,Attack
+"997",-0.4166667,"North",-0.58928571,-0.7157895,0.33050848,0.23529412,"Waxing gibbous","Full","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"1000",-0.3750000,"Northeast",-0.69642857,-0.7684211,0.44915254,0.02352941,"Full","Waning gibbous","Waxing gibbous","0",0.99,0.01,Attack,No Attack
+"1006",-0.4583333,"North",-0.58928571,-0.8105263,0.57627119,0.02352941,"Last quarter","Last quarter","Waning gibbous","0",0.98,0.02,Attack,No Attack
+"1015",-0.4583333,"Northeast",-0.64285714,-0.7578947,0.26271186,0.03529412,"New","Waxing crescent","Waning crescent","0",0.99,0.01,Attack,No Attack
+"1016",-0.3750000,"Northeast",-0.53571429,-0.7263158,0.27118644,0.04705882,"New","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"1019",-0.4166667,"Northeast",-0.35714286,-0.7368421,0.27966102,0.03529412,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"1023",-0.3750000,"Northeast",-0.71428571,-0.7578947,0.33050848,0.03529412,"First quarter","Waxing gibbous","First quarter","0",0.93,0.07,Attack,No Attack
+"1026",-0.2916667,"Northeast",-0.48214286,-0.7684211,0.29661017,0.04705882,"Waxing gibbous","Full","First quarter","0",0.99,0.01,Attack,No Attack
+"1030",-0.2916667,"North",-0.50000000,-0.7157895,0.28813559,0.03529412,"Full","Waning gibbous","Full","0",0.94,0.06,Attack,No Attack
+"1033",-0.3333333,"Northeast",-0.55357143,-0.7263158,0.29661017,0.03529412,"Waning gibbous","Waning gibbous","Full","0",0.98,0.02,Attack,No Attack
+"1035",-0.2916667,"Northeast",-0.73214286,-0.7684211,0.33050848,0.03529412,"Waning gibbous","Last quarter","Waning gibbous","0",1.00,0.00,Attack,No Attack
+"1045",-0.3333333,"Northeast",-0.51785714,-0.7157895,0.21186441,0.03529412,"New","Waxing crescent","New","0",0.97,0.03,Attack,No Attack
+"1047",-0.5833333,"Northeast",-0.41071429,-0.7684211,0.22033898,0.07058823,"Waxing crescent","Waxing crescent","New","0",1.00,0.00,Attack,No Attack
+"1049",-0.5416667,"Northeast",-0.39285714,-0.7368421,0.33050848,0.02352941,"Waxing crescent","First quarter","Waxing crescent","0",1.00,0.00,Attack,No Attack
+"1052",-0.4583333,"Northeast",-0.67857143,-0.7263158,0.30508475,0.02352941,"First quarter","Waxing gibbous","First quarter","0",0.95,0.05,Attack,No Attack
+"1053",-0.2916667,"North",-0.75000000,-0.7157895,0.27966102,0.02352941,"First quarter","Waxing gibbous","First quarter","0",0.94,0.06,Attack,No Attack
+"1061",-0.2916667,"Northeast",-0.51785714,-0.7263158,0.32203390,0.05882353,"Full","Waning gibbous","Full","0",1.00,0.00,Attack,No Attack
+"1067",-0.3750000,"Northeast",-0.66071429,-0.8631579,0.40677966,0.03529412,"Last quarter","Waning crescent","Last quarter","0",0.65,0.35,Attack,No Attack
+"1071",-0.3333333,"North",-0.51785714,-0.8315789,0.30508475,0.03529412,"Waning crescent","New","Waning crescent","0",0.97,0.03,Attack,No Attack
+"1084",-0.3333333,"North",-0.76785714,-0.6947368,0.29661017,0.04705882,"Waxing gibbous","Waxing gibbous","First quarter","0",0.93,0.07,Attack,No Attack
+"1089",-0.3333333,"Northeast",-0.69642857,-0.7368421,0.09322034,0.03529412,"Full","Waning gibbous","Full","0",0.96,0.04,Attack,No Attack
+"1092",-0.3750000,"Northeast",-0.62500000,-0.8631579,0.09322034,0.07058823,"Waning gibbous","Waning gibbous","Full","0",0.97,0.03,Attack,No Attack
+"1093",-0.4166667,"Northeast",-0.57142857,-0.9052632,0.07627119,0.04705882,"Waning gibbous","Last quarter","Waning gibbous","0",0.94,0.06,Attack,No Attack
